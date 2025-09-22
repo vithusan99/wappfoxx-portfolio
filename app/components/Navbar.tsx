@@ -86,7 +86,7 @@ export default function Navbar() {
         </div>
 
         <div className="flex items-center space-x-4">
-          <button className="hidden md:block px-4 py-2 border border-gray-700 rounded hover:bg-orange-500 transition-all duration-200">
+          <button className="hidden md:block px-4 py-2 border border-gray-700 rounded hover:bg-orange-500 transition-all duration-200 cursor-pointer ">
             Book an appointment
           </button>
 
